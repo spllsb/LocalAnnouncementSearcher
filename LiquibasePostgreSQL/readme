@@ -1,0 +1,3 @@
+liquibase --changeLogFile=dbchangelog.sql  update  -> wywolanie update
+liquibase --changeLogFile=dbchangelog.sql  status
+
